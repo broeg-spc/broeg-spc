@@ -1,6 +1,6 @@
 - 👋 Hi, I’m broeg
 - 👀 想多向大神们借鉴学习
-- 🌱 目前正在学习前端相关知识，vue及相关框架，node.js等等，萌新茁壮成长中
+- 🌱 目前正在学习前端相关知识，萌新茁壮成长中
 - 💞️ I’m looking to collaborate on ...
 - 📫 月球
 
